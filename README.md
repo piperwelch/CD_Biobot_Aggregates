@@ -1,6 +1,6 @@
 # AI Swarm Design 
 
-This repo contains code and in vitro data for AI design of Anthrobot swarms. 
+This repo contains code and in vitro data for AI design of human biobot aggregates. 
 
 ## Requirements 
 
@@ -53,4 +53,5 @@ Supplementary Videos 2 - 25: These videos show the box counting behavior of the 
 | 8    | 1     | True     | [Video](https://drive.google.com/file/d/1XufP5epEvkgTgV7aJPjgvtPmo4ogxX7S/view?usp=sharing)     |
 | 8    | 2     | True     | [Video](https://drive.google.com/file/d/1pPjeyTB6jkwznc2YpPQ1YopjsfeZ-yob/view?usp=sharing)     |
 | 8    | 3     | True     | [Video](https://drive.google.com/file/d/1IhKDs1AXlZDrhRcNJGcsrFXraXfWcUSz/view?usp=drive_link)     |
+
 
