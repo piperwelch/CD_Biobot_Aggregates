@@ -17,6 +17,16 @@ To begin evolution, run the following commands:
 
 
 ## Supplemental videos 
+
+Supplementary Video 1: This video shows the motility behavior of a cohort of self-assembled human biobots. 
+
+[https://drive.google.com/file/d/1jhtrCvGgJiMMOYahVpmynvcJWWoNsnj8/view?usp=sharing](https://drive.google.com/file/d/1jhtrCvGgJiMMOYahVpmynvcJWWoNsnj8/view?usp=sharing)
+
+
+
+
+Supplementary Videos 2 - 25: These videos show the box counting behavior of the trajectories of the human biobot aggregates for each biological and technical replicate. 
+
 | Swarm ID | Trial | Evolved | Video |
 |----------|----------|----------|----------|
 | 1   | 1     | True     | [Video](https://drive.google.com/file/d/1P9O_9_SLMqiZte-xxK8bX6AfBCx0apkM/view?usp=sharing)     |
@@ -43,3 +53,4 @@ To begin evolution, run the following commands:
 | 8    | 1     | True     | [Video](https://drive.google.com/file/d/1XufP5epEvkgTgV7aJPjgvtPmo4ogxX7S/view?usp=sharing)     |
 | 8    | 2     | True     | [Video](https://drive.google.com/file/d/1pPjeyTB6jkwznc2YpPQ1YopjsfeZ-yob/view?usp=sharing)     |
 | 8    | 3     | True     | [Video](https://drive.google.com/file/d/1IhKDs1AXlZDrhRcNJGcsrFXraXfWcUSz/view?usp=drive_link)     |
+
